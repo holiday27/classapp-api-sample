@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "form-data": "^2.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holiday27/classapp-api-sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/holiday27/classapp-api-sample/issues"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "igor matsuzaki",
+  "license": "MIT"
+}
